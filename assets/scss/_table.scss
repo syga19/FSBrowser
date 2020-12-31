@@ -1,0 +1,24 @@
+.tableBox {
+    margin: 1rem 2rem;
+    h1 {
+        text-align: center;
+    }
+    table {
+        border: solid 3px lightgrey;
+        margin: auto;
+        
+        thead {
+            th {
+                background-color: #47768E;
+                color: white;
+                border: solid 1px grey;
+            }
+        }
+        tbody {
+            td {
+                border: solid 1px grey;
+            }
+        }
+        
+    }
+}

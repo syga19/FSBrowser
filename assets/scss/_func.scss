@@ -1,0 +1,20 @@
+.func {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    form {
+        display: flex;
+        input {
+            border: solid 1px grey;
+            border-radius: 5px;
+            padding: 0.4rem 2rem;
+            outline: none;
+            
+        }
+        #submit {
+            background-color: #47768E; 
+            color: white;
+        }
+    }
+}
