@@ -16,7 +16,7 @@ For this project were used technologies:
 
 - Extract downloaded files and move to 'C:/Program Files/Ampps/www'. 
 
-- Go to browser using this link: http://localhost/FSBrowser/
+- Go to browser using this link: http://localhost/FSBrowser-main/
 
 Login:
 
